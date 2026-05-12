@@ -39,7 +39,7 @@ button {
 }
 
 ul {
-    list-style: none;
+    list-style: underline;
     padding: 0;
     margin-top: 20px;
 }
